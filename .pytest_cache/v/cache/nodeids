@@ -1,0 +1,5 @@
+[
+  "tests/test_basic.py::test_name",
+  "tests/test_basic.py::test_print_name",
+  "tests/test_basic.py::test_print_hello_world"
+]

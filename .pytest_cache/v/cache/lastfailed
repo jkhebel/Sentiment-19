@@ -1,0 +1,11 @@
+{
+  "main/test_basic.py": true,
+  "main/test_basic.py::test": true,
+  "main/test_basic.py::test_name": true,
+  "main/test_basic.py::test_print_hello_world": true,
+  "main/test_basic.py::test_print_name": true,
+  "tests/test_basic.py::test": true,
+  "tests/test_basic.py::test_name": true,
+  "tests/test_basic.py::test_print_hello_world": true,
+  "tests/test_basic.py::test_print_name": true
+}
